@@ -1,0 +1,142 @@
+[
+ {
+  "momento": 1790540360.8185568,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790540846.5406337,
+  "etapa": "previsao",
+  "nota": "linha_correta='pode_avancar_b', resultado_a=False"
+ },
+ {
+  "momento": 1790541352.1060731,
+  "etapa": "previsao-revelada",
+  "nota": "..."
+ },
+ {
+  "momento": 1790541921.9069798,
+  "etapa": "exercicio-1",
+  "nota": "..."
+ },
+ {
+  "momento": 1790542365.2470994,
+  "etapa": "exercicio-2",
+  "nota": "..."
+ },
+ {
+  "momento": 1790542987.8785822,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790543026.1033926,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790543035.9271991,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790543165.409358,
+  "etapa": "exercicio-3",
+  "nota": "Consegui realizar a criação dos critérios."
+ },
+ {
+  "momento": 1790545632.543123,
+  "etapa": "exercicio-4",
+  "nota": "..."
+ },
+ {
+  "momento": 1790545650.2581162,
+  "etapa": "exercicio-4",
+  "nota": "..."
+ },
+ {
+  "momento": 1790545780.837056,
+  "etapa": "exercicio-4",
+  "nota": "..."
+ },
+ {
+  "momento": 1790545871.9108825,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas"
+ },
+ {
+  "momento": 1790545895.6681616,
+  "etapa": "exercicio-3",
+  "nota": "Consegui realizar a criação dos critérios."
+ },
+ {
+  "momento": 1790545909.7329178,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas"
+ },
+ {
+  "momento": 1790546480.507614,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790546489.4399734,
+  "etapa": "previsao",
+  "nota": "linha_correta='pode_avancar_b', resultado_a=False"
+ },
+ {
+  "momento": 1790546492.4866679,
+  "etapa": "previsao-revelada",
+  "nota": "Minha previsão esta correta, e me surpreendeu que ambas as linhas tem como resultado False. Mas a linha b resultou isso por conta dos falores da empresa."
+ },
+ {
+  "momento": 1790546499.8865964,
+  "etapa": "exercicio-1",
+  "nota": "Não houve problemas para realizar a conversão."
+ },
+ {
+  "momento": 1790546506.2696357,
+  "etapa": "exercicio-2",
+  "nota": "Fiquei um pouco confusa na criação dos limites para os graus de risco, se a empresa tivesse um ilc = 1.5 (entra tanto no grau AAA quanto no BBB), se tiver margem ebitda = 15 também entra nos dois graus, e se tiver alavancagem = 3 também entra nos dois graus. Então não tinha certeza de qual grau seria. Depois lembrei que o Python impõe a ordem do primeiro verdadeiro é o correto"
+ },
+ {
+  "momento": 1790546512.9887636,
+  "etapa": "exercicio-3",
+  "nota": "Consegui realizar a criação dos critérios."
+ },
+ {
+  "momento": 1790546526.2813513,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas"
+ },
+ {
+  "momento": 1790546669.4328802,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas. Não esout conseguindo encontrar o que falta"
+ },
+ {
+  "momento": 1790546736.7789254,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas. "
+ },
+ {
+  "momento": 1790547172.09673,
+  "etapa": "exercicio-5",
+  "nota": "..."
+ },
+ {
+  "momento": 1790548223.4711492,
+  "etapa": "exercicio-6",
+  "nota": "..."
+ },
+ {
+  "momento": 1790548696.4749324,
+  "etapa": "exercicio-7",
+  "nota": "..."
+ },
+ {
+  "momento": 1790552626.4063294,
+  "etapa": "exercicio-8",
+  "nota": ""
+ }
+]
