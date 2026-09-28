@@ -1,0 +1,312 @@
+[
+ {
+  "momento": 1790296787.596405,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790298171.5850081,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=96597.25"
+ },
+ {
+  "momento": 1790298354.9468899,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790298474.8082519,
+  "etapa": "previsao-revelada",
+  "nota": "..."
+ },
+ {
+  "momento": 1790298533.905201,
+  "etapa": "previsao-revelada",
+  "nota": "100923"
+ },
+ {
+  "momento": 1790300204.4098537,
+  "etapa": "exercicio-1",
+  "nota": "..."
+ },
+ {
+  "momento": 1790300534.0245223,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790300579.5443237,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790300652.5711434,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790301632.8331492,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790301638.7348657,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790301641.3898237,
+  "etapa": "previsao-revelada",
+  "nota": "100923"
+ },
+ {
+  "momento": 1790301654.1562507,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790301668.3776658,
+  "etapa": "exercicio-2",
+  "nota": "..."
+ },
+ {
+  "momento": 1790303342.8157432,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790303387.882799,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790303391.1546495,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790303399.4661162,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790303428.7654533,
+  "etapa": "exercicio-3",
+  "nota": "..."
+ },
+ {
+  "momento": 1790304879.5190089,
+  "etapa": "exercicio-4",
+  "nota": "..."
+ },
+ {
+  "momento": 1790305484.937537,
+  "etapa": "exercicio-5",
+  "nota": "..."
+ },
+ {
+  "momento": 1790477993.927627,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790478000.6010804,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790478005.267385,
+  "etapa": "previsao-revelada",
+  "nota": "100923"
+ },
+ {
+  "momento": 1790478012.8087404,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790478025.2544663,
+  "etapa": "exercicio-2",
+  "nota": "A lógica a ser seguida para a construção do mais específico para o geral, foi necessário atenção, principalmente na segunda parte, para a condição do else"
+ },
+ {
+  "momento": 1790478034.688344,
+  "etapa": "exercicio-3",
+  "nota": "A construção do CAGR foi a parte mais trabalhosa e que demandou maior nível de atenção. Pois foi necessário a utilização de diferentes parênteses ao longo da expressão."
+ },
+ {
+  "momento": 1790478050.68378,
+  "etapa": "exercicio-4",
+  "nota": "No calculo da `taxa_real_pct` é necessário atenção na ordem dos parênteses"
+ },
+ {
+  "momento": 1790478059.9596322,
+  "etapa": "exercicio-5",
+  "nota": "Achei um pouco confuso a construção do elif, pois estava em dúvida se poderia fazer o limite usando outra base, mas foi sanada com a conferência"
+ },
+ {
+  "momento": 1790478859.6553063,
+  "etapa": "exercicio-6",
+  "nota": "..."
+ },
+ {
+  "momento": 1790479558.6304617,
+  "etapa": "exercicio-7",
+  "nota": "..."
+ },
+ {
+  "momento": 1790479827.2631638,
+  "etapa": "exercicio-7",
+  "nota": "..."
+ },
+ {
+  "momento": 1790479966.2598193,
+  "etapa": "exercicio-7",
+  "nota": "..."
+ },
+ {
+  "momento": 1790480195.9677703,
+  "etapa": "exercicio-7",
+  "nota": "..."
+ },
+ {
+  "momento": 1790536466.6494243,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790536497.9199946,
+  "etapa": "previsao-revelada",
+  "nota": "Houve uma diferença significativa entre as duas projeções, ficando claro a importancia de usar as formulas de modo correto."
+ },
+ {
+  "momento": 1790536529.037259,
+  "etapa": "previsao-revelada",
+  "nota": "Houve uma diferença significativa entre as duas projeções, ficando claro a importancia de usar as formulas de modo correto."
+ },
+ {
+  "momento": 1790536659.6808293,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790536666.3190625,
+  "etapa": "previsao-revelada",
+  "nota": "Houve uma diferença significativa entre as duas projeções, ficando claro a importancia de usar as formulas de modo correto."
+ },
+ {
+  "momento": 1790536685.667216,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790536695.345452,
+  "etapa": "exercicio-2",
+  "nota": "A lógica a ser seguida para a construção do mais específico para o geral, foi necessário atenção, principalmente na segunda parte, para a condição do else"
+ },
+ {
+  "momento": 1790536704.30241,
+  "etapa": "exercicio-3",
+  "nota": "A construção do CAGR foi a parte mais trabalhosa e que demandou maior nível de atenção. Pois foi necessário a utilização de diferentes parênteses ao longo da expressão."
+ },
+ {
+  "momento": 1790536711.36131,
+  "etapa": "exercicio-4",
+  "nota": "No calculo da `taxa_real_pct` é necessário atenção na ordem dos parênteses"
+ },
+ {
+  "momento": 1790536719.291359,
+  "etapa": "exercicio-5",
+  "nota": "Achei um pouco confuso a construção do elif, pois estava em dúvida se poderia fazer o limite usando outra base, mas foi sanada com a conferência"
+ },
+ {
+  "momento": 1790538216.4934077,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790538231.0482872,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790538235.6157868,
+  "etapa": "previsao-revelada",
+  "nota": "Houve uma diferença significativa entre as duas projeções, ficando claro a importancia de usar as formulas de modo correto."
+ },
+ {
+  "momento": 1790538245.8540978,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790538254.5310328,
+  "etapa": "exercicio-2",
+  "nota": "A lógica a ser seguida para a construção do mais específico para o geral, foi necessário atenção, principalmente na segunda parte, para a condição do else"
+ },
+ {
+  "momento": 1790538266.153869,
+  "etapa": "exercicio-3",
+  "nota": "A construção do CAGR foi a parte mais trabalhosa e que demandou maior nível de atenção. Pois foi necessário a utilização de diferentes parênteses ao longo da expressão."
+ },
+ {
+  "momento": 1790538282.88125,
+  "etapa": "exercicio-4",
+  "nota": "No calculo da `taxa_real_pct` é necessário atenção na ordem dos parênteses"
+ },
+ {
+  "momento": 1790538290.6954467,
+  "etapa": "exercicio-5",
+  "nota": "Achei um pouco confuso a construção do elif, pois estava em dúvida se poderia fazer o limite usando outra base, mas foi sanada com a conferência"
+ },
+ {
+  "momento": 1790538318.7850568,
+  "etapa": "exercicio-6",
+  "nota": ""
+ },
+ {
+  "momento": 1790555094.2335582,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790555094.4080698,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790555099.9160361,
+  "etapa": "previsao-revelada",
+  "nota": "Houve uma diferença significativa entre as duas projeções, ficando claro a importancia de usar as formulas de modo correto."
+ },
+ {
+  "momento": 1790555106.2996945,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790555118.3238645,
+  "etapa": "exercicio-3",
+  "nota": "A construção do CAGR foi a parte mais trabalhosa e que demandou maior nível de atenção. Pois foi necessário a utilização de diferentes parênteses ao longo da expressão."
+ },
+ {
+  "momento": 1790555126.3161745,
+  "etapa": "exercicio-4",
+  "nota": "No calculo da `taxa_real_pct` é necessário atenção na ordem dos parênteses"
+ },
+ {
+  "momento": 1790555134.270493,
+  "etapa": "exercicio-5",
+  "nota": "Achei um pouco confuso a construção do elif, pois estava em dúvida se poderia fazer o limite usando outra base, mas foi sanada com a conferência"
+ },
+ {
+  "momento": 1790555141.779728,
+  "etapa": "exercicio-6",
+  "nota": ""
+ },
+ {
+  "momento": 1790555168.390921,
+  "etapa": "exercicio-7",
+  "nota": "Ter cuidado ao criar uma condição que envolva um limite mínimo e máximo, na construção do primeiro if do # todo 2, fiquei bastante confusa e foi necesário algumas tentativas para o resultado ser igual a conferência, e o ponto errado ser algo fora do limite, no momento da criação do raise"
+ }
+]
