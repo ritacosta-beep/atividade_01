@@ -368,5 +368,65 @@
   "momento": 1790863661.6609282,
   "etapa": "questao-autoral",
   "nota": "Senti dificuldade para fazer as comparações em conjunto, ao mesmo tempo, por esse motivo montie de forma separada. Mas o objetivo inicial seria fazer essa comparação conjuntamente."
+ },
+ {
+  "momento": 1790863964.8301487,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790863964.9173448,
+  "etapa": "previsao",
+  "nota": "linha_correta='pode_avancar_b', resultado_a=False"
+ },
+ {
+  "momento": 1790863964.956716,
+  "etapa": "previsao-revelada",
+  "nota": "Minha previsão esta correta, e me surpreendeu que ambas as linhas tem como resultado False. Mas a linha b resultou isso por conta dos falores da empresa."
+ },
+ {
+  "momento": 1790863965.0273705,
+  "etapa": "exercicio-1",
+  "nota": "Não houve problemas para realizar a conversão."
+ },
+ {
+  "momento": 1790863965.1004944,
+  "etapa": "exercicio-2",
+  "nota": "Fiquei um pouco confusa na criação dos limites para os graus de risco, se a empresa tivesse um ilc = 1.5 (entra tanto no grau AAA quanto no BBB), se tiver margem ebitda = 15 também entra nos dois graus, e se tiver alavancagem = 3 também entra nos dois graus. Então não tinha certeza de qual grau seria. Depois lembrei que o Python impõe a ordem do primeiro verdadeiro é o correto"
+ },
+ {
+  "momento": 1790863965.1906245,
+  "etapa": "exercicio-3",
+  "nota": "Consegui realizar a criação dos critérios."
+ },
+ {
+  "momento": 1790863965.2971349,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas. "
+ },
+ {
+  "momento": 1790863965.3681078,
+  "etapa": "exercicio-5",
+  "nota": "As substituições foram feitas seem problemas"
+ },
+ {
+  "momento": 1790863965.4249947,
+  "etapa": "exercicio-6",
+  "nota": "Não tive problemas para realizar a classificação do fundo."
+ },
+ {
+  "momento": 1790863965.4852018,
+  "etapa": "exercicio-7",
+  "nota": "Um pouco trabalhoso para entrender a estrutura"
+ },
+ {
+  "momento": 1790863965.553409,
+  "etapa": "exercicio-8",
+  "nota": "Consegui realizar"
+ },
+ {
+  "momento": 1790863965.62091,
+  "etapa": "questao-autoral",
+  "nota": "Senti dificuldade para fazer as comparações em conjunto, ao mesmo tempo, por esse motivo montie de forma separada. Mas o objetivo inicial seria fazer essa comparação conjuntamente."
  }
 ]
