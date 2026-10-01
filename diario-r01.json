@@ -368,5 +368,65 @@
   "momento": 1790608229.4303312,
   "etapa": "questao-autoral",
   "nota": "Fiz a utilização do Try e Except para treinar, mesmo sabendo que nos dados disponíveis a quantidade de parcela não retonaria zero"
+ },
+ {
+  "momento": 1790855568.4204726,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790855913.6667283,
+  "etapa": "previsao",
+  "nota": "linha_correta='projecao_a', valor_aproximado=100923"
+ },
+ {
+  "momento": 1790855918.796166,
+  "etapa": "previsao-revelada",
+  "nota": "Houve uma diferença significativa entre as duas projeções, ficando claro a importancia de usar as formulas de modo correto."
+ },
+ {
+  "momento": 1790855927.4026773,
+  "etapa": "exercicio-1",
+  "nota": "É necessário ter atenção as unidades de medidas, pois cada variável está em uma unidade diferente, e ao realizar a combinação entre elas, é preciso ter atenção para entrender qual unidade de medida ressultará da operação. "
+ },
+ {
+  "momento": 1790855934.1988273,
+  "etapa": "exercicio-2",
+  "nota": "A lógica a ser seguida para a construção do mais específico para o geral, foi necessário atenção, principalmente na segunda parte, para a condição do else"
+ },
+ {
+  "momento": 1790855940.4157066,
+  "etapa": "exercicio-3",
+  "nota": "A construção do CAGR foi a parte mais trabalhosa e que demandou maior nível de atenção. Pois foi necessário a utilização de diferentes parênteses ao longo da expressão."
+ },
+ {
+  "momento": 1790855947.657701,
+  "etapa": "exercicio-4",
+  "nota": "No calculo da `taxa_real_pct` é necessário atenção na ordem dos parênteses"
+ },
+ {
+  "momento": 1790855954.076558,
+  "etapa": "exercicio-5",
+  "nota": "Achei um pouco confuso a construção do elif, pois estava em dúvida se poderia fazer o limite usando outra base, mas foi sanada com a conferência"
+ },
+ {
+  "momento": 1790855962.807466,
+  "etapa": "exercicio-6",
+  "nota": ""
+ },
+ {
+  "momento": 1790855973.5405812,
+  "etapa": "exercicio-7",
+  "nota": "Ter cuidado ao criar uma condição que envolva um limite mínimo e máximo, na construção do primeiro if do # todo 2, fiquei bastante confusa e foi necesário algumas tentativas para o resultado ser igual a conferência, e o ponto errado ser algo fora do limite, no momento da criação do raise"
+ },
+ {
+  "momento": 1790855976.892258,
+  "etapa": "bonus",
+  "nota": "bonus"
+ },
+ {
+  "momento": 1790856014.502961,
+  "etapa": "questao-autoral",
+  "nota": "Fiz a utilização do Try e Except para treinar, mesmo sabendo que nos dados disponíveis a quantidade de parcela não retonaria zero"
  }
 ]
