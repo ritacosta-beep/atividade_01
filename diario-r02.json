@@ -193,5 +193,60 @@
   "momento": 1790609821.32731,
   "etapa": "exercicio-8",
   "nota": "Consegui realizar"
+ },
+ {
+  "momento": 1790856101.0092447,
+  "etapa": "passo-0",
+  "nota": "kit ligado"
+ },
+ {
+  "momento": 1790856384.5448697,
+  "etapa": "previsao",
+  "nota": "linha_correta='pode_avancar_b', resultado_a=False"
+ },
+ {
+  "momento": 1790856388.4448357,
+  "etapa": "previsao-revelada",
+  "nota": "Minha previsão esta correta, e me surpreendeu que ambas as linhas tem como resultado False. Mas a linha b resultou isso por conta dos falores da empresa."
+ },
+ {
+  "momento": 1790856574.6483014,
+  "etapa": "exercicio-2",
+  "nota": "Fiquei um pouco confusa na criação dos limites para os graus de risco, se a empresa tivesse um ilc = 1.5 (entra tanto no grau AAA quanto no BBB), se tiver margem ebitda = 15 também entra nos dois graus, e se tiver alavancagem = 3 também entra nos dois graus. Então não tinha certeza de qual grau seria. Depois lembrei que o Python impõe a ordem do primeiro verdadeiro é o correto"
+ },
+ {
+  "momento": 1790856618.2602088,
+  "etapa": "exercicio-3",
+  "nota": "Consegui realizar a criação dos critérios."
+ },
+ {
+  "momento": 1790856631.2432659,
+  "etapa": "exercicio-4",
+  "nota": "Tive problema com as nomenclaturas, mas acho que foi algum bug, pois estvão escritava de forma corretas. "
+ },
+ {
+  "momento": 1790856807.1887603,
+  "etapa": "exercicio-5",
+  "nota": "As substituições foram feitas seem problemas"
+ },
+ {
+  "momento": 1790856822.0034459,
+  "etapa": "exercicio-6",
+  "nota": "Não tive problemas para realizar a classificação do fundo."
+ },
+ {
+  "momento": 1790856836.3638594,
+  "etapa": "exercicio-7",
+  "nota": "Um pouco trabalhoso para entrender a estrutura"
+ },
+ {
+  "momento": 1790856848.7165873,
+  "etapa": "exercicio-8",
+  "nota": "Consegui realizar"
+ },
+ {
+  "momento": 1790863369.4978187,
+  "etapa": "questao-autoral",
+  "nota": "Senti dificuldade para fazer as comparações em conjunto, ao mesmo tempo, por esse motivo montie de forma separada. Mas o objetivo inicial seria fazer essa comparação conjuntamente."
  }
 ]
